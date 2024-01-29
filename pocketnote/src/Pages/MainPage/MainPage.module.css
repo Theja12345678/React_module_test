@@ -1,0 +1,8 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4vh;
+    margin-left: 9vh;
+    min-width: 190vh;
+    
+}
